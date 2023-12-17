@@ -47,6 +47,7 @@
 		<Vehicle name="TIGON" />
 		<Vehicle name="TORERO2" /><!-- Torero XO -->
 		<Vehicle name="TURISMOR" />
+		<Vehicle name="TURISMO3" /><!-- Turismo Omaggio -->
 		<Vehicle name="TYRANT" />
 		<Vehicle name="TYRUS" />
 		<Vehicle name="VACCA" />
@@ -67,6 +68,7 @@
 		<Vehicle name="F620" />
 		<Vehicle name="FELON" />
 		<Vehicle name="FELON2" /><!-- Felon GT -->
+		<Vehicle name="FR36" />
 		<Vehicle name="JACKAL" />
 		<Vehicle name="KANJOSJ" />
 		<Vehicle name="ORACLE" />
@@ -208,6 +210,7 @@
 		<Vehicle name="DEVIANT" />
 		<Vehicle name="DOMINATOR" />
 		<Vehicle name="DOMINATOR7" /><!-- Dominator ASP -->
+		<Vehicle name="DOMINATOR9" /><!-- Dominator GT -->
 		<Vehicle name="DOMINATOR8" /><!-- Dominator GTT -->
 		<Vehicle name="DOMINATOR3" /><!-- Dominator GTX -->
 		<Vehicle name="YOSEMITE2" /><!-- Drift Yosemite -->
@@ -222,6 +225,7 @@
 		<Vehicle name="IMPALER3" /><!-- Future Shock Impaler -->
 		<Vehicle name="IMPERATOR2" /><!-- Future Shock Imperator -->
 		<Vehicle name="SLAMVAN5" /><!-- Future Shock Slamvan -->
+		<Vehicle name="IMPALER6" /><!-- Impaler LX -->
 		<Vehicle name="GAUNTLET" />
 		<Vehicle name="GAUNTLET3" /><!-- Gauntlet Classic -->
 		<Vehicle name="GAUNTLET5" /><!-- Gauntlet Classic Custom -->
@@ -264,6 +268,7 @@
 		<Vehicle name="VAMOS" />
 		<Vehicle name="VIGERO" />
 		<Vehicle name="VIGERO2" /><!-- Vigero ZX -->
+		<Vehicle name="VIGERO3" /><!-- Vigero ZX Convertible -->
 		<Vehicle name="VIRGO" />
 		<Vehicle name="VIRGO3" /><!-- Virgo Classic -->
 		<Vehicle name="VIRGO2" /><!-- Virgo Classic Custom -->
@@ -357,6 +362,7 @@
 		<Vehicle name="ASEA" />
 		<Vehicle name="ASEA2" /><!-- Asea North Yankton variant -->
 		<Vehicle name="ASTEROPE" />
+		<Vehicle name="ASTEROPE2" />
 		<Vehicle name="CINQUEMILA" />
 		<Vehicle name="COGNOSCENTI" />
 		<Vehicle name="COGNOSCENTI2" /><!-- Cognoscenti (Armored) -->
@@ -461,6 +467,7 @@
 		<Vehicle name="ZHABA" />
 	</Category>
 	<Category name="SUV">
+		<Vehicle name="ALEUTIAN" />
 		<Vehicle name="ASTRON" />
 		<Vehicle name="BALLER" />
 		<Vehicle name="BALLER2" /><!-- Baller 2nd gen variant -->
@@ -499,6 +506,7 @@
 		<Vehicle name="SERRANO" />
 		<Vehicle name="SQUADDIE" />
 		<Vehicle name="TOROS" />
+		<Vehicle name="VIVANITE" />
 		<Vehicle name="XLS" />
 		<Vehicle name="XLS2" /><!-- XLS (Armored) -->
 	</Category>
